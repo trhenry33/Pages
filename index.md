@@ -2,12 +2,12 @@
 
 Hello, my name is Travis Henry, and I go to **University of California, San Diego** as a second year __computer science major__.
 
-![ucsd logo lol](C:\Users\travm\.vscode\Pages\uc_san_diego_tritons_logo_secondary_2018_sportslogosnet-1765.png)
+![ucsd logo lol](Images/triton.png)
 
 As a part of Muir College, I love to to live by their motto:
 
 >Celebrating the Independent Spirit
-\
+
 
 My favorite coding language is Python!
 ```
