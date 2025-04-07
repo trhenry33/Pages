@@ -15,10 +15,9 @@ print('wow this is so much easier')
 
 ```
 
+For other coding languages I know see below: [Link Text](#Skills!)
+
 And here's my [linkedin](https://www.linkedin.com/in/travis-henry-1b53a6330/)!
-
-For my coding skills, see below!
-
 
 ## Skills!
 
