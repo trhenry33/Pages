@@ -15,7 +15,7 @@ print('wow this is so much easier')
 
 ```
 
-For other coding languages I know see below: [Link Text](#Skills!)
+For other coding languages I know see below: [Link Text](#skills!)
 
 And here's my [linkedin](https://www.linkedin.com/in/travis-henry-1b53a6330/)!
 
@@ -54,4 +54,6 @@ don't [click](/secret.md) me!
 - [ ] get an internship
 - [ ] get a job
 - [ ] get a girlfriend
+
+[Back to the top!](#all-about-me)
 
