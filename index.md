@@ -15,8 +15,8 @@ print('wow this is so much easier')
 
 ```
 
-For other coding languages I know see [here]
-(#skills!)!
+For other coding languages I know see [here!]
+(#skills!)
 
 And here's my [linkedin](https://www.linkedin.com/in/travis-henry-1b53a6330/)!
 
